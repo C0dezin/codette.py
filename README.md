@@ -4,5 +4,7 @@
 # How to install
 - Download [coquette.py](https://github.com/C0dezin/coquette.py/blob/main/coquette.py) file
 - Download [CMake](https://cmake.org/download/)
-- `Pip install cv2` and `Pip install dlib`
+- `pip install cv2` and `pip install dlib`
 - `Python coquette.py`
+- Wait
+- done!
