@@ -6,6 +6,6 @@
 - Download [codette.py](https://github.com/C0dezin/codette.py/blob/main/codette.py) file
 - Download [CMake](https://cmake.org/download/)
 - `pip install cv2` and `pip install dlib`
-- `Python coquette.py`
+- `Python codette.py`
 - Wait
 - done!
